@@ -1,6 +1,7 @@
 # Hotel-Booking-Cancellation-Prediction
 
 Dataset: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
 Method: 
 - Logistic Regression
 - k-Nearest Neighbors
